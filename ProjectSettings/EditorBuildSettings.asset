@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 85200aab141ad944f97f9544c077bab6
+  - enabled: 1
+    path: Assets/Scenes/TestDialogue.unity
+    guid: 57fe684c8a7270d498ca47445264fede
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ae31917765a0ac044af5f00e11a7ce0f
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: 2c9815281d4b67f40ae7cfab571712f5
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Chapter 00 -/00car.unity
+    guid: 02ee6650f95f04b4aac3c2ed05875838
+  - enabled: 1
+    path: Assets/Scenes/Chapter 00 -/00corridor.unity
+    guid: 438715d274584d546b1769b425573595
+  - enabled: 1
+    path: Assets/Scenes/Chapter 04 - Final Day/02MonitorRoom.unity
+    guid: d6440aad079161841b2ed58dd805e57c
+  - enabled: 1
+    path: Assets/Scenes/Chapter 04 - Final Day/ane4.unity
+    guid: 52d9d2d1c99b86f4c9580f9ad012ec70
+  - enabled: 1
+    path: Assets/Scenes/Chapter 04 - Final Day/cyclocutscene4.unity
+    guid: 373495f315756ec4b96397a422496454
+  - enabled: 1
+    path: Assets/Scenes/Chapter 04 - Final Day/hr4.unity
+    guid: c6c5720b839f3d8478a996b12506ef48
+  - enabled: 1
+    path: Assets/Scenes/Chapter 04 - Final Day/hreve4.unity
+    guid: 504116c6e3ccfee419b3d22d9f6eb3c1
+  - enabled: 1
+    path: Assets/Scenes/Chapter 04 - Final Day/mr4.unity
+    guid: 220966b31e5318e4fac5b15897a82a94
+  - enabled: 1
+    path: Assets/Scenes/Chapter 04 - Final Day/rec4.unity
+    guid: b6596bfba187bf447ae374fa283eede7
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/gar3.unity
+    guid: c5b68106df6f3e44c884c61f8c8918bb
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/hr3.unity
+    guid: 6c2d32689b450e44a9ef43029fb82079
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/hreve3.unity
+    guid: a80c7e83345fea9419461c0e5e38a474
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/kit3.unity
+    guid: 48c5d303c6e2aa947beab6c71d2054f4
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/pt3.unity
+    guid: 23402aabfe835cd49b3d7b1c0f69f79a
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/rec3.unity
+    guid: 7849d7bf34a40f746beb80d23e107f61
+  - enabled: 1
+    path: Assets/Scenes/Chapter 01 - 1rst Playable/01 HomeRoom.unity
+    guid: d997bdeac01b27846a468338d13b172a
+  - enabled: 1
+    path: Assets/Scenes/Chapter 00 -/00ctscan.unity
+    guid: ff7fc9c60ef868240890ee8b282d512e
+  - enabled: 1
+    path: Assets/Scenes/Chapter 00 -/00reception.unity
+    guid: 64d229715d675a047928c2390b3a63da
+  - enabled: 1
+    path: Assets/MiniGames/Mojiwack/Mojiwack.unity
+    guid: 7e9c8ed994eff7042bf5a6064fcc5e25
+  - enabled: 1
+    path: Assets/Scenes/Chapter 01 - 1rst Playable/02 Reception.unity
+    guid: 5900e1b9af8393248a09b1dae5417550
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/02CyclotronRoom.unity
+    guid: b44cf1dde95f4304fb099b1372993338
+  - enabled: 1
+    path: Assets/Scenes/Chapter 01 - 1rst Playable/03 CorridorToyCar.unity
+    guid: 60cd41c4ca832f84ba87b2b5761cb04f
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/02CycloPost.unity
+    guid: f48d08e83a9155e498863b56cce53232
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/02CyclotronRoomTopDown.unity
+    guid: 9a2271a3965e748479d464a1d5b83a95
+  - enabled: 1
+    path: Assets/Scenes/Chapter 01 - 1rst Playable/04 CorridorThreeway.unity
+    guid: 1392d11df0e44cf40992069e2c481833
+  - enabled: 1
+    path: Assets/Scenes/Chapter 01 - 1rst Playable/04 DressingRoom.unity
+    guid: 01f7e8c5e5540ff46bf88392e3f057f2
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/02MonitorRoom.unity
+    guid: 81003f1042187d24286a087156805ad3
+  - enabled: 1
+    path: Assets/Scenes/Chapter 01 - 1rst Playable/05 MonitorRoom.unity
+    guid: 0f79ea1464f3c77459051475c9986b6f
+  - enabled: 1
+    path: Assets/Scenes/Chapter 01 - 1rst Playable/06 CyclotronRoom.unity
+    guid: 9fae7ae89482d2d4783448c8f2f781c3
+  - enabled: 1
+    path: Assets/Scenes/Chapter 01 - 1rst Playable/07 CyclotronRoomTopDown.unity
+    guid: 0fefed3dd8554164393a02d3db84805f
+  - enabled: 1
+    path: Assets/Scenes/Chapter 01 - 1rst Playable/08 CyclotronRoomPostTreatment.unity
+    guid: 30b4c97a8b9fa7544987891bef6af67c
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/01 HomeRoom2.unity
+    guid: 5645a8ab521af7a44b2eaff9a24c5228
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/02 Reception2.unity
+    guid: e6bb825a86b05404db755f5a073a9293
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/01 HomeRoomEve2.unity
+    guid: f0ec6db4c0bcdda4c92537f996a2223f
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/03 Garden2.unity
+    guid: 8175f17642ebb7349b6a6eaaa199c2df
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/04 Kitchen2.unity
+    guid: 7444f7fdaf97f72408972a1fb0af4680
+  - enabled: 1
+    path: Assets/Scenes/Chapter 00 -/00ctcutscene.unity
+    guid: 960ad5e0e9c7a3d43949dff7346d2379
+  - enabled: 1
+    path: Assets/Scenes/Chapter 00 -/00ctscanpt.unity
+    guid: e98dc63086a34d2479209c32e56fd678
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/cor3.unity
+    guid: 531c1087019e6c94eb3e8cc4ea8e101e
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/cyclo3.unity
+    guid: 44b05b9e3a6f16b47ba4ebfef06daccc
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/cyclocutscene3.unity
+    guid: b8f5163a0c29c5d43a1b42540483f3d6
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/cyclopost3.unity
+    guid: 46e5086aeca35524e8880736995abbca
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/dr3.unity
+    guid: 45cfea55e585f3d40a5b0d341d9dc935
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/mr3_notused.unity
+    guid: 71278dc3db73e3243ada85966e0350d5
+  - enabled: 1
+    path: Assets/Scenes/Chapter 03 - Third Day/03MonitorRoom.unity
+    guid: b5eaa00b6d0720e47ac21b2f775b9d28
+  - enabled: 1
+    path: Assets/Scenes/Chapter 00 -/00carhome.unity
+    guid: bcd8f66522def3448a248c6acff6f706
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/04 CorridorThreeway2.unity
+    guid: 9da86d1402c03b348a2d6cd62b6c5d4d
+  - enabled: 1
+    path: Assets/Scenes/Chapter 02 - Second Day/04 DressingRoom2.unity
+    guid: 00bd0f650b4f47d41a3111520d75f007
+  m_configObjects: {}
