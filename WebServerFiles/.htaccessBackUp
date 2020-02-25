@@ -1,0 +1,3 @@
+order deny,allow
+  deny from all
+  allow from 193.11.12.192/255.255.255.192
